@@ -17,7 +17,7 @@ https://www.linkedin.com/in/serhat-aker-b8b1b3105/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cengizcmataraci" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="serhataker" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/serhat-aker" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="serhataker" height="30" width="30" /></a>
 
 
 <h3 align="left">Technologies:</h3>
