@@ -4,11 +4,8 @@
 ### 🌱 I’m currently learning  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
-### Connect with me:
-https://www.linkedin.com/in/serhat-aker-b8b1b3105/
 
-
-<img align="right" src="https://media4.giphy.com/media/C5hL7OSWyACFW/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="280" height="230"  />
+<img align="right" src="https://kitapdelisininkitapligi.blogspot.com/2014/07/akl-oyunlar-beautiful-mind-film-yorumu_18.html" width="280" height="230"  />
 
 
 
