@@ -5,7 +5,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
 
-<img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBZYgoen-RwT8TySSnfx7hXlW8XBCv52KByvtL1KllvlDoIrKe-kvFlJx_kOYwfFvmL1Tmw1195G07RPKMksUnmGGM4rNPhucG05gdBSeRXRWA4xjsU8hIc42ARAe3pjZlyODSB4fyrbg/s1600/tumblr_mwrr2p5uMN1rfhbg1o1_500.gif" width="280" height="230"  />
+<img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7NbkWCazmIa0jnlHeb7Dc9iVWidH63_MYHtcbfh20odu-P4o8HjN3HbK4V3J5lDjHJ1n2yrC6iEivDpQyaoScSvbOe7yK4Q28dHZ5hv5s8Xsw4J7UWKdNP01YatT2gYCo0E-rY8oCF-M/s1600/tumblr_inline_n77dzzA4kk1rfdnle.gif" width="280" height="230"  />
 
 
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/serhat-aker" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="serhataker" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/serhat-aker-b8b1b3105/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="serhataker" height="30" width="30" /></a>
 
 
 <h3 align="left">Technologies:</h3>
