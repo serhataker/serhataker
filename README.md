@@ -28,6 +28,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
 
 <a href="https://www.postgresql.org" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank" rel=”noopener”> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="Mssql" width="30" height="30"/> </a>
 
   
 <h3 align="left">Tools:</h3>
