@@ -5,7 +5,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
 
-<img align="right" src="https://kitapdelisininkitapligi.blogspot.com/2014/07/akl-oyunlar-beautiful-mind-film-yorumu_18.html" width="280" height="230"  />
+<img align="right" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBZYgoen-RwT8TySSnfx7hXlW8XBCv52KByvtL1KllvlDoIrKe-kvFlJx_kOYwfFvmL1Tmw1195G07RPKMksUnmGGM4rNPhucG05gdBSeRXRWA4xjsU8hIc42ARAe3pjZlyODSB4fyrbg/s1600/tumblr_mwrr2p5uMN1rfhbg1o1_500.gif" width="280" height="230"  />
 
 
 
