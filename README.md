@@ -5,7 +5,7 @@
 ![download (1)](https://github.com/user-attachments/assets/a4c5c1ed-ed4b-425f-b140-dfcf94307e0a)
 ![download (2)](https://github.com/user-attachments/assets/8add7987-7418-4a16-8bc0-627d43baa68d)
 ### Connect with me:
-![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e672f36343070782d4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67](https://github.com/user-attachments/assets/58e6bfaf-c48f-45cc-882d-56bd0a389887)
+https://www.linkedin.com/in/serhat-aker-b8b1b3105/
 
 <!--
 **serhataker/serhataker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
