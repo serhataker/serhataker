@@ -1,7 +1,8 @@
 ## Hi there I'm Serhat👋
 
 ## 🔭 I’m currently working on Bilin Software
-## 🌱 I’m currently learning  ![c-sharp-c-icon-456x512-9sej0lrz](https://github.com/user-attachments/assets/5e35d45e-1cb9-40a8-905d-964ebe245efe)
+## 🌱 I’m currently learning  
+![c-sharp-c-icon-456x512-9sej0lrz](https://github.com/user-attachments/assets/5e35d45e-1cb9-40a8-905d-964ebe245efe)
 
 
 <!--
