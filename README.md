@@ -2,8 +2,8 @@
 
 ## 🔭 I’m currently working on Bilin Software
 ### 🌱 I’m currently learning  
-![download (1)](https://github.com/user-attachments/assets/f1147a35-38a7-4073-8fe7-be9939e1e94a)
 ![download (1)](https://github.com/user-attachments/assets/a4c5c1ed-ed4b-425f-b140-dfcf94307e0a)
+![download (2)](https://github.com/user-attachments/assets/8add7987-7418-4a16-8bc0-627d43baa68d)
 
 <!--
 **serhataker/serhataker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
