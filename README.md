@@ -1,9 +1,8 @@
 ## Hi there I'm Serhat👋
 
 🔭 I’m currently working on Bilin Software
-🌱 I’m currently learning 
-![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65652f2e4e45545f436f72655f4c6f676f2e7376672f3132303070782d2e4e45545f436f72655f4c6f676f2e7376672e706e67](https://github.com/user-attachments/assets/d705aca7-5058-4116-a1e5-238032dcccb3)
-![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65652f2e4e45545f436f72655f4c6f676f2e7376672f3132303070782d2e4e45545f436f72655f4c6f676f2e7376672e706e67](https://github.com/user-attachments/assets/cc56cf6e-938c-41aa-bb11-4b56015dfc1b)
+🌱 I’m currently learning ![c-sharp-c-icon-912x1024-j3yidw37](https://github.com/user-attachments/assets/bfe0a090-1d55-4cd9-98bc-46a48873d01d)
+
 
 <!--
 **serhataker/serhataker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
