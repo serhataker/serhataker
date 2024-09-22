@@ -1,8 +1,7 @@
 ## Hi there I'm Serhat👋
 
 🔭 I’m currently working on Bilin Software
-🌱 I’m currently learning![68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f632d73686172702d632d6c6f676f2d303246313737313442412d7365656b6c6f676f2e636f6d2e706e67](https://github.com/user-attachments/assets/0d288a0b-2dcd-414e-bb63-aeaa659672c1)
-
+🌱 I’m currently learning https://docs.microsoft.com/en-us/dotnet/csharp/
 
 <!--
 **serhataker/serhataker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
