@@ -31,7 +31,7 @@
 
   
 <h3 align="left">Tools:</h3>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualstudio.microsoft.com%2Ftr%2F&psig=AOvVaw0rayEQkrS7n3SK8AzvtTdi&ust=1727123177722000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLisv66x14gDFQAAAAAdAAAAABAE" alt="vscode" width="30" height="30"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel=”noopener”> <img src="hmicrosoft-visual-studio-vs-visual-studio-code.jpg" alt="vscode" width="30" height="30"/> </a>
 <a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 
